@@ -1,5 +1,11 @@
 
-Instalar anotaciones: 
+Instalar
+* Symfony
+* anotaciones: 
+* maker-bundle (dev)
 
-<instalar symfony>
+
+Commands:
+--------
 composer require annotations
+composer require --dev symfony/maker-bundle
